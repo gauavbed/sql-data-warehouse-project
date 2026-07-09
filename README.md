@@ -1,2 +1,3 @@
 # sql-data-warehouse-project
-End-to-end Data Warehouse project using SQL Server, featuring ETL pipelines, dimensional data modeling, and analytics to enable business intelligence and data-driven decision-making.
+Welcome to the Data Warehouse and Analytics Project! 🚀 
+This repository demonstrates an end-to-end data warehousing and analytics solution using SQL Server, from building a modern data warehouse with ETL pipelines and dimensional data modeling to generating actionable insights through analytics. Designed as a portfolio project, it follows industry best practices and supports business intelligence and data-driven decision-making.
